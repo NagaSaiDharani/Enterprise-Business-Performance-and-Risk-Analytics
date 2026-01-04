@@ -129,28 +129,28 @@ This structure enables flexible slicing by **time, region, product, and customer
 ### 1️⃣ Executive Overview
 Provides a high-level snapshot of business performance, including revenue trends, profit, targets, and overall status.
 
-> *(Insert screenshot)*
+![](images/dashboards/Executive%20Overview.png)
 
 ---
 
 ### 2️⃣ Sales and Customer Overview
 Analyzes revenue distribution across customers, products, and regions to identify key growth drivers.
 
-> *(Insert screenshot)*
+![](images/dashboards/Sales%20and%20Customer%20Overview.png)
 
 ---
 
 ### 3️⃣ Operations Performance
 Focuses on delivery delays, warehouse performance, and operational efficiency.
 
-> *(Insert screenshot)*
+![](images/dashboards/Operations%20Performance.png)
 
 ---
 
-### 4️⃣ Risk & Complaints
+### 4️⃣ Risk and Complaints
 Tracks customer complaints, severity levels, and high-risk indicators to highlight potential business risks.
 
-> *(Insert screenshot)*
+![](images/dashboards/Risk%20and%20Complaints.png)
 
 ---
 
@@ -158,7 +158,15 @@ Tracks customer complaints, severity levels, and high-risk indicators to highlig
 Each dashboard is supported by a dedicated **Insights page** that translates visuals into:
 - Key observations  
 - Risk signals  
-- Recommended actions  
+- Recommended actions
+
+![](images/insights/Executive%20Overview%20-%20Insights.png)
+
+![](images/insights/Sales%20and%20Customer%20-%20Insights.png)
+
+![](images/insights/Operations%20Performance%20-%20Insights.png)
+
+![](images/insights/Risk%20and%20Complaints%20-%20Insights.png)
 
 ---
 
