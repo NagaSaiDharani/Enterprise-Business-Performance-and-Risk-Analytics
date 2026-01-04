@@ -92,7 +92,7 @@ The model consists of:
 
 This structure enables flexible slicing by **time, region, product, and customer**, while maintaining data accuracy.
 
-> *(Insert data model screenshot here)*
+![Data Model](images/datamodel.png)
 
 ---
 
